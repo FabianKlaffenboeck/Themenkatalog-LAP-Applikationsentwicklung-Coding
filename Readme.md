@@ -38,8 +38,6 @@
 
 ### Fachbegriff Dateisystem
 
----
-
 ## Betreuung von mobiler Hardware
 
 ### Technische Merkmale von Smartphones
@@ -53,8 +51,6 @@
 ### Fachbegriff QR-Code
 
 ### Vor- und Nachteile von geschlossenen Systemen mit Betriebssystem und App-Store
-
----
 
 ## Technische Dokumentationen/Projektarbeit/Schulungen
 
@@ -75,8 +71,6 @@
 ### Gestaltung und Vorbereitung von Präsentationen
 
 ### Themenkatalog für die Vorbereitung auf die Lehrabschlussprüfung Applikationsentwicklung-Coding
-
----
 
 ## Gesetzliche Bestimmungen im Zusammenhang mit
 
@@ -116,8 +110,6 @@
 
 ### Kenntnisse über die gesetzliche Einhaltung von Bildschirmpausen
 
----
-
 ## Netzwerkdienste
 
 ### Fachbegriffe Domain, Sub-Domain und Top-Level-Domain
@@ -146,8 +138,6 @@
 
 ### Kriterien und Voraussetzungen für den Einsatz von Cloud-Diensten
 
----
-
 ## IT-Security und Betriebssicherheit
 
 ### Kenntnisse über Gefahren von Viren, Würmern, Trojanern, Spyware, Hackern und Phishing
@@ -167,8 +157,6 @@
 ### Kenntnisse über Backup-Medien und deren richtiger Lagerung
 
 ### Themenkatalog für die Vorbereitung auf die Lehrabschlussprüfung Applikationsentwicklung-Coding
-
----
 
 ## Informatik und Gesellschaft
 
@@ -194,8 +182,6 @@
 
 ### Inhalte von Unternehmensrichtlinien für Nutzung von sozialen Netzwerken
 
----
-
 ## Ergonomische Gestaltung eines Arbeitsplatzes
 
 ### Kenntnisse über die ergonomische Einrichtung eines Bildschirmarbeitsplatzes
@@ -214,8 +200,6 @@
 
 ### Kenntnisse über körperliche Entspannungsübungen bei sitzender Tätigkeit
 
----
-
 ## Fachberatung, Planung
 
 ### Führen von fachspezifischen Verkaufsgesprächen, Produktberatung
@@ -227,8 +211,6 @@
 ### Kenntnisse über richtigen Umgang bei Reklamationen
 
 ### Richtiger Kundenumgang bei folgenreichen technischen Problemen
-
----
 
 ## Informatik
 
@@ -324,8 +306,6 @@
 
 ### CI/CD Vorgaben bei der Applikationsentwicklung
 
----
-
 ## Projektmanagement
 
 ### Fachbegriff Projektmanagement
@@ -372,8 +352,6 @@
 
 ### Kenntnis Projektkostenplanung
 
----
-
 ## Projektmethoden, Tools
 
 ### Kenntnisse über Softwareprozessmodelle
@@ -412,8 +390,6 @@
 
 ### Fachbegriff Versionsverwaltung
 
----
-
 ## Qualitätssicherung
 
 ### Kenntnisse über den Zweck von Code-Reviews
@@ -429,8 +405,6 @@
 ### Fachbegriff Versionierung und deren Nutzen
 
 ### Kenntnisse über Problemmanagement
-
----
 
 ## Grundkenntnisse des Programmierens
 
@@ -479,8 +453,6 @@
 ### Kenntnisse über Verzweigungen und Fallunterscheidungen
 
 ### Kenntnis der objektorientierten Programmierung (Klassen, Objekte, Vererbung, …)
-
----
 
 ## Kenntnis und Verwendung von Datenbanken, Datenmodellen und
 
@@ -533,8 +505,6 @@
 ### Transaktionskonzept, Programmierung, Testreihen, Benutzerabnahmetest, Ergebnisprüfung)
 
 ### Themenkatalog für die Vorbereitung auf die Lehrabschlussprüfung Applikationsentwicklung-Coding
-
----
 
 ## Systementwicklung/Testkonzepte
 
