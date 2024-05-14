@@ -41,7 +41,6 @@
 * Datenmigration/Konvertierung, Anwenderschulung, Übergabe, Abnahme)
 * Gestaltung und Vorbereitung von Präsentationen
 * Themenkatalog für die Vorbereitung auf die Lehrabschlussprüfung Applikationsentwicklung-Coding
-* Version 1.0 Seite 5/10
 
 ## Gesetzliche Bestimmungen im Zusammenhang mit
 
@@ -91,7 +90,6 @@
 * Kenntnisse über verschiedene Backup-Prinzipien
 * Kenntnisse über Backup-Medien und deren richtiger Lagerung
 * Themenkatalog für die Vorbereitung auf die Lehrabschlussprüfung Applikationsentwicklung-Coding
-* Version 1.0 Seite 6/10
 
 ## Informatik und Gesellschaft
 
@@ -284,7 +282,6 @@
 * Kenntnisse der Abläufe und Prozessschritte (Zugriffsschnittstelle, Zugriffstechnologie,
 * Transaktionskonzept, Programmierung, Testreihen, Benutzerabnahmetest, Ergebnisprüfung)
 * Themenkatalog für die Vorbereitung auf die Lehrabschlussprüfung Applikationsentwicklung-Coding
-* Version 1.0 Seite 10/10
 
 ## Systementwicklung/Testkonzepte
 
