@@ -1,101 +1,101 @@
-## Kenntnis und Verwendung von Datenbanken, Datenmodellen und Datenstrukturen
+# Kenntnis und Verwendung von Datenbanken, Datenmodellen und Datenstrukturen
 
-### Datenstrukturen
-
-TBD
-
-### Fachbegriff Datenbanksysteme (Traditionelle Datenbanken (RDB), Objektorientierte
+## Datenstrukturen
 
 TBD
 
-### Datenbanken, Multimedia-Datenbanken (GIS), Data-Warehouse und OLAP)
+## Fachbegriff Datenbanksysteme (Traditionelle Datenbanken (RDB), Objektorientierte
 
 TBD
 
-### Fachbegriffe zu Datenbankabfragen (z.B.: SQL, SQL/XML)
+## Datenbanken, Multimedia-Datenbanken (GIS), Data-Warehouse und OLAP)
 
 TBD
 
-### Fachbegriff Datenbankmanagementsystem (DBMS)
+## Fachbegriffe zu Datenbankabfragen (z.B.: SQL, SQL/XML)
 
 TBD
 
-### Fachbegriff Content Management System (CMS)
+## Fachbegriff Datenbankmanagementsystem (DBMS)
 
 TBD
 
-### Fachbegriff Integrität im Zusammenhang mit Datenbanken
+## Fachbegriff Content Management System (CMS)
 
 TBD
 
-### Fachbegriff Redundanz im Zusammenhang mit Datenbanken
+## Fachbegriff Integrität im Zusammenhang mit Datenbanken
 
 TBD
 
-### Vorgangsweise bei der Datenmodellierung (RDB)
+## Fachbegriff Redundanz im Zusammenhang mit Datenbanken
 
 TBD
 
-### Kenntnisse über grundlegende Datenbankoperationen (SELECT, FROM, WHERE, …)
+## Vorgangsweise bei der Datenmodellierung (RDB)
 
 TBD
 
-### Kenntnisse über die ersten drei Normalformen im Zusammenhang mit Datenbanken
+## Kenntnisse über grundlegende Datenbankoperationen (SELECT, FROM, WHERE, …)
 
 TBD
 
-### Fachbegriffe Primärschlüssel, Fremdschlüssel, Relationen
+## Kenntnisse über die ersten drei Normalformen im Zusammenhang mit Datenbanken
 
 TBD
 
-### Kenntnis über Vor- und Nachteile bei Verwendung eines Indexes
+## Fachbegriffe Primärschlüssel, Fremdschlüssel, Relationen
 
 TBD
 
-### Vor- und Nachteile von Freeware Datenbanken
+## Kenntnis über Vor- und Nachteile bei Verwendung eines Indexes
 
 TBD
 
-### Kenntnisse über Sicherungsmethoden
+## Vor- und Nachteile von Freeware Datenbanken
 
 TBD
 
-### Fachbegriff Sperrtabelle und Sperrverhalten
+## Kenntnisse über Sicherungsmethoden
 
 TBD
 
-### Fachbegriff BIS (Betriebliches Informationssystem)
+## Fachbegriff Sperrtabelle und Sperrverhalten
 
 TBD
 
-### Kenntnisse/Fachbegriff ERP Systeme
+## Fachbegriff BIS (Betriebliches Informationssystem)
 
 TBD
 
-### Kenntnisse/Fachbegriff BI/BW Systeme
+## Kenntnisse/Fachbegriff ERP Systeme
 
 TBD
 
-### Kenntnisse der Abläufe und Prozessschritte (Auswählen DBMS, Erstellen des physischen Modells,
+## Kenntnisse/Fachbegriff BI/BW Systeme
 
 TBD
 
-### Performance- und Stresstests, Datensicherheit, Datenschutz, Datenverschlüsselung –
+## Kenntnisse der Abläufe und Prozessschritte (Auswählen DBMS, Erstellen des physischen Modells,
 
 TBD
 
-### Kryptografie, Datenmigration) zum Umsetzen von Datenmodellen in eine Datenbank
+## Performance- und Stresstests, Datensicherheit, Datenschutz, Datenverschlüsselung –
 
 TBD
 
-### Kenntnisse der Abläufe und Prozessschritte (Zugriffsschnittstelle, Zugriffstechnologie,
+## Kryptografie, Datenmigration) zum Umsetzen von Datenmodellen in eine Datenbank
 
 TBD
 
-### Transaktionskonzept, Programmierung, Testreihen, Benutzerabnahmetest, Ergebnisprüfung)
+## Kenntnisse der Abläufe und Prozessschritte (Zugriffsschnittstelle, Zugriffstechnologie,
 
 TBD
 
-### Themenkatalog für die Vorbereitung auf die Lehrabschlussprüfung Applikationsentwicklung-Coding
+## Transaktionskonzept, Programmierung, Testreihen, Benutzerabnahmetest, Ergebnisprüfung)
+
+TBD
+
+## Themenkatalog für die Vorbereitung auf die Lehrabschlussprüfung Applikationsentwicklung-Coding
 
 TBD

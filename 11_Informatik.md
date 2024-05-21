@@ -1,185 +1,185 @@
-## Informatik
+# Informatik
 
-### Fachbegriff Informatik
-
-TBD
-
-### Typen von Webseiten (statische, dynamische Webseiten)
+## Fachbegriff Informatik
 
 TBD
 
-### Fachbegriffe Weblog, Webshop, Web-Plattform
+## Typen von Webseiten (statische, dynamische Webseiten)
 
 TBD
 
-### Auszeichnungssprachen HTML, XML – Fachbegriff und Einsatzgebiet
+## Fachbegriffe Weblog, Webshop, Web-Plattform
 
 TBD
 
-### Kenntnisse über das HTML5-Grundgerüst mit den wichtigsten Bestandteilen
+## Auszeichnungssprachen HTML, XML – Fachbegriff und Einsatzgebiet
 
 TBD
 
-### Fachbegriff Meta-Element/Metadaten
+## Kenntnisse über das HTML5-Grundgerüst mit den wichtigsten Bestandteilen
 
 TBD
 
-### Fachbegriff SEO und Maßnahmen
+## Fachbegriff Meta-Element/Metadaten
 
 TBD
 
-### Fachbegriff Cascading StyleSheets und deren Einsatz
+## Fachbegriff SEO und Maßnahmen
 
 TBD
 
-### Scripting (clientseitiges Scripting, serverseitiges Scripting)
+## Fachbegriff Cascading StyleSheets und deren Einsatz
 
 TBD
 
-### Software zum Erstellen und Betrachten von Webseiten (Code-Editoren, Web-Browser, FTP-
+## Scripting (clientseitiges Scripting, serverseitiges Scripting)
 
 TBD
 
-### Programme, Grafikprogramme, Serversoftware)
+## Software zum Erstellen und Betrachten von Webseiten (Code-Editoren, Web-Browser, FTP-
 
 TBD
 
-### Fachbegriff CMS (Einsatzgebiet, notwendige Voraussetzungen, existierende Systeme am Markt)
+## Programme, Grafikprogramme, Serversoftware)
 
 TBD
 
-### Unterschied LIFO/FIFO-Prinzip
+## Fachbegriff CMS (Einsatzgebiet, notwendige Voraussetzungen, existierende Systeme am Markt)
 
 TBD
 
-### Themenkatalog für die Vorbereitung auf die Lehrabschlussprüfung Applikationsentwicklung-Coding
+## Unterschied LIFO/FIFO-Prinzip
 
 TBD
 
-### Version 1.0 Seite 7/10
+## Themenkatalog für die Vorbereitung auf die Lehrabschlussprüfung Applikationsentwicklung-Coding
 
 TBD
 
-### Fachbegriffe Stack und Queue
+## Version 1.0 Seite 7/10
 
 TBD
 
-### Fachbegriff Userinterface (Arten, Regeln für Entwurf, Gestaltungshilfen/Toolkits/Frameworks)
+## Fachbegriffe Stack und Queue
 
 TBD
 
-### Fachbegriff Zeichencodierung (ASCII, ISO-Latin, Unicode, … – Unterschiede und Verwendung)
+## Fachbegriff Userinterface (Arten, Regeln für Entwurf, Gestaltungshilfen/Toolkits/Frameworks)
 
 TBD
 
-### Standards ANSI, ISO, IEEE
+## Fachbegriff Zeichencodierung (ASCII, ISO-Latin, Unicode, … – Unterschiede und Verwendung)
 
 TBD
 
-### Fachbegriff Frame
+## Standards ANSI, ISO, IEEE
 
 TBD
 
-### Fachbegriff Webservices (verteiltes System für heterogene Systeme, …)
+## Fachbegriff Frame
 
 TBD
 
-### Kenntnisse über Standards (SOAP, WSDL, …)
+## Fachbegriff Webservices (verteiltes System für heterogene Systeme, …)
 
 TBD
 
-### Fachbegriff Rest API
+## Kenntnisse über Standards (SOAP, WSDL, …)
 
 TBD
 
-### Fachbegriff JSON
+## Fachbegriff Rest API
 
 TBD
 
-### Fachbegriff Agile Softwareentwicklung
+## Fachbegriff JSON
 
 TBD
 
-### Fachbegriff Reaktive Programmierung
+## Fachbegriff Agile Softwareentwicklung
 
 TBD
 
-### Kenntnisse über Frameworks
+## Fachbegriff Reaktive Programmierung
 
 TBD
 
-### Einsatzgebiete Angular JS
+## Kenntnisse über Frameworks
 
 TBD
 
-### Einsatzgebiete Bootstrap
+## Einsatzgebiete Angular JS
 
 TBD
 
-### Einsatzgebiet jQuery
+## Einsatzgebiete Bootstrap
 
 TBD
 
-### Kenntnisse über den Zugriff PHP auf mySQL-Datenbank (Dienste Server/Client)
+## Einsatzgebiet jQuery
 
 TBD
 
-### Fachbegriff Multitasking
+## Kenntnisse über den Zugriff PHP auf mySQL-Datenbank (Dienste Server/Client)
 
 TBD
 
-### Kenntnisse über mobile Webseiten/Optimierung für Smartphones
+## Fachbegriff Multitasking
 
 TBD
 
-### Fachbegriff Responsive Webdesign, Umsetzung
+## Kenntnisse über mobile Webseiten/Optimierung für Smartphones
 
 TBD
 
-### Kenntnisse über Konzept Mobile First
+## Fachbegriff Responsive Webdesign, Umsetzung
 
 TBD
 
-### Kenntnisse über aktuelle Programmiersprachen
+## Kenntnisse über Konzept Mobile First
 
 TBD
 
-### Kenntnisse über Programmiersprachen für mobile Anwendungen/Internet
+## Kenntnisse über aktuelle Programmiersprachen
 
 TBD
 
-### Kenntnisse über die Anwendung von JAVA-Technologien im Web (Servlets, Java-Server-Pages)
+## Kenntnisse über Programmiersprachen für mobile Anwendungen/Internet
 
 TBD
 
-### Grundkenntnisse über die Anwendung der .NET-Technologien im Web (ASP.NET)
+## Kenntnisse über die Anwendung von JAVA-Technologien im Web (Servlets, Java-Server-Pages)
 
 TBD
 
-### Fachbegriff Metadaten
+## Grundkenntnisse über die Anwendung der .NET-Technologien im Web (ASP.NET)
 
 TBD
 
-### Prinzipien der Softwareentwicklung: KISS, DRY
+## Fachbegriff Metadaten
 
 TBD
 
-### Kenntnisse über Coding-Standards/Code-Konventionen
+## Prinzipien der Softwareentwicklung: KISS, DRY
 
 TBD
 
-### Fachbegriff Cross Plattform Entwicklung
+## Kenntnisse über Coding-Standards/Code-Konventionen
 
 TBD
 
-### Fachbegriff Corporate Identity (CI)
+## Fachbegriff Cross Plattform Entwicklung
 
 TBD
 
-### Fachbegriff Corporate Design (CD)
+## Fachbegriff Corporate Identity (CI)
 
 TBD
 
-### CI/CD Vorgaben bei der Applikationsentwicklung
+## Fachbegriff Corporate Design (CD)
+
+TBD
+
+## CI/CD Vorgaben bei der Applikationsentwicklung
 
 TBD

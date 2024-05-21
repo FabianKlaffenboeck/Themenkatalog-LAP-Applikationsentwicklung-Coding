@@ -1,26 +1,26 @@
-## Grundlagen in der Informationstechnik
+# Grundlagen in der Informationstechnik
 
-### Kenntnis des Zeichensatzes ASCII
+## Kenntnis des Zeichensatzes ASCII
 
 ASCII steht für "American Standard Code for Information Interchange" und stellt einen standard zum Codieren von
 Textzeichen dar. Die Erste veröffentlichung des Standards war 1963, wurde dann allerdings 1967 nochmal grundlegend
 überarbeitet. Da es sich um einen amerikanischen Standard handelt, sind umlaute wie: ä,ö,ü,ß nicht enthalten.
 
-#### Bullet Points:
+### Bullet Points:
 
 * 7 Bit lang (128 Zeichen)
 * keine Umlaute (ö,ä,ü,ß)
 
-### Kenntnis der Einheiten Bit, Byte
+## Kenntnis der Einheiten Bit, Byte
 
 Das Bit stellt die kleinste Informationseinheit dar, da es nur den Zustand 1 oder 0 einnehmen kann. Ein Byte besteht aus
 8 Bit (2^8 = 256).
 
-#### Bullet Points:
+### Bullet Points:
 
 * Ein Byte besteht aus 8 Bit
 
-### Kenntnis der Begriffe Gigabyte, Terabyte, Petabyte, Exabyte
+## Kenntnis der Begriffe Gigabyte, Terabyte, Petabyte, Exabyte
 
 | Name Dezimalpräfix | Symbol | Anzahl Bytes | Unterschied | Name Binärpräfix | Symbol | Anzahl Bytes |
 |--------------------|--------|--------------|-------------|------------------|--------|--------------|
@@ -33,20 +33,20 @@ Das Bit stellt die kleinste Informationseinheit dar, da es nur den Zustand 1 ode
 | Zettabyte          | ZB     | 10^21        | 18,1        | Zebbibyte        | ZiB    | 2^70         |
 | Yottabyte          | YB     | 10^24        | 20,9        | Yobbybyte        | YiB    | 2^80         |
 
-### Kenntnis der gebräuchlichen Zahlensysteme in der IT
+## Kenntnis der gebräuchlichen Zahlensysteme in der IT
 
 Der elektronischen Komponenten des Computers arbeiten mit dem Binär-system, da so mit dem Anliegen von Spannung
 gerechnet und gespeichert werden kann. Um Zahlen leserlich für Menschen zu machen wird das Hexadecimal System verwendet.
 Dieses besteht aus den zahlen 0-9 und danach den Buchstaben A-F. Mit einer Hex Zahl kann somit der ganzzahlige Bereich
 von 0-16 dargestellt werden.
 
-#### Bullet Points:
+### Bullet Points:
 
 * Binär (Basis 2)
 * Octal (Basis 8)
 * Hexadecimal (Basis 16)
 
-### Umwandlung zwischen Binär-, Dezimal- und Hexadezimalzahlen
+## Umwandlung zwischen Binär-, Dezimal- und Hexadezimalzahlen
 
 Gehe nach [folgendem Verfahren](https://www.arndt-bruenner.de/mathe/scripts/Zahlensysteme.htm) vor:
 
@@ -71,16 +71,16 @@ Beispiel: 420
      Resultat: 110100100
 ```
 
-### Kenntnis der Logik-Schaltungen (AND, OR, XOR, NOT) und deren Wahrheitstabellen
+## Kenntnis der Logik-Schaltungen (AND, OR, XOR, NOT) und deren Wahrheitstabellen
 
-#### NOT
+### NOT
 
 | A | OUT |
 |---|-----|
 | 0 | 0   |
 | 1 | 0   |
 
-#### NAND
+### NAND
 
 | A | B | OUT |
 |---|---|-----|
@@ -89,7 +89,7 @@ Beispiel: 420
 | 1 | 0 | 1   |
 | 1 | 1 | 0   |
 
-#### NOR
+### NOR
 
 | A | B | OUT |
 |---|---|-----|
@@ -98,7 +98,7 @@ Beispiel: 420
 | 1 | 0 | 0   |
 | 1 | 1 | 0   |
 
-#### AND
+### AND
 
 | A | B | OUT |
 |---|---|-----|
@@ -107,7 +107,7 @@ Beispiel: 420
 | 1 | 0 | 0   |
 | 1 | 1 | 1   |
 
-#### OR
+### OR
 
 | A | B | OUT |
 |---|---|-----|

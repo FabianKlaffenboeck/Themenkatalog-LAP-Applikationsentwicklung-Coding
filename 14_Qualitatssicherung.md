@@ -1,29 +1,29 @@
-## Qualitätssicherung
+# Qualitätssicherung
 
-### Kenntnisse über den Zweck von Code-Reviews
-
-TBD
-
-### Fachbegriff Schreibtischtest
+## Kenntnisse über den Zweck von Code-Reviews
 
 TBD
 
-### Kenntnisse über Black-Box-Test/White-Box-Test, wesentliche Unterschiede
+## Fachbegriff Schreibtischtest
 
 TBD
 
-### Kenntnisse über wichtige Qualitätsmerkmale der Softwarefunktionalität
+## Kenntnisse über Black-Box-Test/White-Box-Test, wesentliche Unterschiede
 
 TBD
 
-### Kenntnisse über Changemanagement
+## Kenntnisse über wichtige Qualitätsmerkmale der Softwarefunktionalität
 
 TBD
 
-### Fachbegriff Versionierung und deren Nutzen
+## Kenntnisse über Changemanagement
 
 TBD
 
-### Kenntnisse über Problemmanagement
+## Fachbegriff Versionierung und deren Nutzen
+
+TBD
+
+## Kenntnisse über Problemmanagement
 
 TBD

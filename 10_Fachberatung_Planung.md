@@ -1,21 +1,21 @@
-## Fachberatung, Planung
+# Fachberatung, Planung
 
-### Führen von fachspezifischen Verkaufsgesprächen, Produktberatung
-
-TBD
-
-### Kompetenz, technische Zusammenhänge beratend erklären zu können
+## Führen von fachspezifischen Verkaufsgesprächen, Produktberatung
 
 TBD
 
-### Beratung und Erstellen kundenorientierter Softwarelösungen
+## Kompetenz, technische Zusammenhänge beratend erklären zu können
 
 TBD
 
-### Kenntnisse über richtigen Umgang bei Reklamationen
+## Beratung und Erstellen kundenorientierter Softwarelösungen
 
 TBD
 
-### Richtiger Kundenumgang bei folgenreichen technischen Problemen
+## Kenntnisse über richtigen Umgang bei Reklamationen
+
+TBD
+
+## Richtiger Kundenumgang bei folgenreichen technischen Problemen
 
 TBD

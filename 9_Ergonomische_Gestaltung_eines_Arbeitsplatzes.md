@@ -1,33 +1,33 @@
-## Ergonomische Gestaltung eines Arbeitsplatzes
+# Ergonomische Gestaltung eines Arbeitsplatzes
 
-### Kenntnisse über die ergonomische Einrichtung eines Bildschirmarbeitsplatzes
-
-TBD
-
-### Kenntnisse über den optimalen Aufstellungsort von Bildschirmen (Lichteinfall)
+## Kenntnisse über die ergonomische Einrichtung eines Bildschirmarbeitsplatzes
 
 TBD
 
-### Kenntnisse der gesetzlichen Bestimmungen von Pausen bei Bildschirmarbeit
+## Kenntnisse über den optimalen Aufstellungsort von Bildschirmen (Lichteinfall)
 
 TBD
 
-### Kenntnisse über die ideale Höhe von Tisch/Tastatur, Bildschirmoberkante und
+## Kenntnisse der gesetzlichen Bestimmungen von Pausen bei Bildschirmarbeit
 
 TBD
 
-### Bildschirmabstand zum Benutzer
+## Kenntnisse über die ideale Höhe von Tisch/Tastatur, Bildschirmoberkante und
 
 TBD
 
-### Kenntnisse über Schutzmaßnahmen zur Vorbeugung körperlicher Schäden bei sitzender
+## Bildschirmabstand zum Benutzer
 
 TBD
 
-### Tätigkeit
+## Kenntnisse über Schutzmaßnahmen zur Vorbeugung körperlicher Schäden bei sitzender
 
 TBD
 
-### Kenntnisse über körperliche Entspannungsübungen bei sitzender Tätigkeit
+## Tätigkeit
+
+TBD
+
+## Kenntnisse über körperliche Entspannungsübungen bei sitzender Tätigkeit
 
 TBD

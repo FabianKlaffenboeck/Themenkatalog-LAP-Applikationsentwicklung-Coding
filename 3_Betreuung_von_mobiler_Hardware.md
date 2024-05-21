@@ -1,6 +1,6 @@
-## Betreuung von mobiler Hardware
+# Betreuung von mobiler Hardware
 
-### Technische Merkmale von Smartphones
+## Technische Merkmale von Smartphones
 
 Ein Smartphone (oft einfach als Telefon bezeichnet) ist ein mobiles Gerät, das die Funktionalität eines herkömmlichen
 Mobiltelefons mit fortschrittlichen Computerfunktionen kombiniert. Es verfügt in der Regel über eine
@@ -9,14 +9,14 @@ zuzugreifen, wie z. B. Surfen im Internet, E-Mail und soziale Medien sowie Multi
 Smartphones verfügen über integrierte Kameras, GPS-Navigation und Unterstützung für verschiedene Kommunikationsmethoden
 wie Sprachanrufe, Textnachrichten und internetbasierte Messaging-Apps.
 
-#### Bullet Points:
+### Bullet Points:
 
 * kann Mobilfunk, GPS, Internet
 * es können Apps installiert werden
 * es können nachrichten versand werden (WhatsApp)
 * Betriebssysteme: Android/Ios
 
-### Technische Merkmale von Tablets
+## Technische Merkmale von Tablets
 
 Ein Tablet ist ein mobiles Gerät, das in der Regel über ein mobiles Betriebssystem, einen Touchscreen-Display und einen
 wiederaufladbaren Akku in einem einzigen, dünnen und flachen Gehäuse
@@ -27,12 +27,12 @@ mehr, gemessen in der Diagonale, und möglicherweise keinen Zugang zu einem Mobi
 Gegensatz zu Laptops (die traditionell mit Betriebssystemen laufen, die normalerweise für Desktops entwickelt wurden),
 laufen auf Tablets neben Smartphones in der Regel auch mobile Betriebssysteme.
 
-#### Bullet Points:
+### Bullet Points:
 
 * Ähneln weitestgehend modernen Smartphones
 * Betriebssysteme: Android/Ios bzw iPadOS
 
-### Kenntnisse über Android && Kenntnisse über IOS
+## Kenntnisse über Android && Kenntnisse über IOS
 
 | Merkmal       | Ios                                                                                                                                                                                                                                                                                                                                        | Android                                                                                                                                                                                                                                                                                                                                                               |
 |---------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -43,28 +43,28 @@ laufen auf Tablets neben Smartphones in der Regel auch mobile Betriebssysteme.
 | Apps          | Um hier neue Applikationen Installieren zu können, kann man nur über den App- Store gehen. Dieser ist sicher, jedoch sind dann manche Applikationen für Apple einfach nicht verfügbar bzw. mit hohen Kosten verbunden.                                                                                                                     | Android lässt Downloads von Applikationen aus dem Web zu. Das erhöht natürlich die Auswahl an Applikationen, doch das Risiko, sich Schadware hinunterzuladen steigt auch.                                                                                                                                                                                             |
 | Software      | Apple lässt auch bei alten Geräten noch Softwareupdates zu. Auch 4 Jahre nach der Erscheinung der Geräte gibt es noch die neuesten Softwareversionen.                                                                                                                                                                                      | Durchschnittlich gibt es für ein Android-Phone 2 Jahre nach dem Erscheinen keine Softwareupdates mehr.                                                                                                                                                                                                                                                                |
 
-### Fachbegriff QR-Code
+## Fachbegriff QR-Code
 
 Der QR-Code (englisch Quick Response, „schnelle Antwort“, als Markenbegriff „QR Code“) ist ein zweidimensionaler Code,
 der von der japanischen Firma Denso Wave im Jahr 1994 entwickelt wurde. Aufgrund einer automatischen Fehlerkorrektur ist
 dieses Verfahren sehr robust und daher weit verbreitet. Weiterentwicklungen sind der Micro-QR-Code, der Secure-QR-Code (
 SQRC), der iQR-Code und der Frame-QR-Code.
 
-#### Bullet Points:
+### Bullet Points:
 
 * QR steht für Quick Response
 * Integrierte fehler Korrektur
 
-### Vor- und Nachteile von geschlossenen Systemen mit Betriebssystem und App-Store
+## Vor- und Nachteile von geschlossenen Systemen mit Betriebssystem und App-Store
 
-#### Vorteile
+### Vorteile
 
 * komfortable, ansprechende Oberfläche mit einer großen Auswahl an Apps
 * Bewertungen anderer User zur App
 * Einfache Installation
 * Durch Überprüfung Risikominimierung Virusinfektion
 
-#### Nachteile
+### Nachteile
 
 * Entwickler von App-Store abhängig
 * Systemabhängigkeit (Apple App-Store, Play Store, Chrome Web Store, ...)
